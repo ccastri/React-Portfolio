@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ccastri/React-portfolio.git/static/css/main.eded5543.chunk.css",
+    "main.js": "/ccastri/React-portfolio.git/static/js/main.10835ea7.chunk.js",
+    "main.js.map": "/ccastri/React-portfolio.git/static/js/main.10835ea7.chunk.js.map",
+    "runtime-main.js": "/ccastri/React-portfolio.git/static/js/runtime-main.fb0cf2b5.js",
+    "runtime-main.js.map": "/ccastri/React-portfolio.git/static/js/runtime-main.fb0cf2b5.js.map",
+    "static/js/2.33f0c5eb.chunk.js": "/ccastri/React-portfolio.git/static/js/2.33f0c5eb.chunk.js",
+    "static/js/2.33f0c5eb.chunk.js.map": "/ccastri/React-portfolio.git/static/js/2.33f0c5eb.chunk.js.map",
+    "index.html": "/ccastri/React-portfolio.git/index.html",
+    "static/css/main.eded5543.chunk.css.map": "/ccastri/React-portfolio.git/static/css/main.eded5543.chunk.css.map",
+    "static/js/2.33f0c5eb.chunk.js.LICENSE.txt": "/ccastri/React-portfolio.git/static/js/2.33f0c5eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb0cf2b5.js",
+    "static/js/2.33f0c5eb.chunk.js",
+    "static/css/main.eded5543.chunk.css",
+    "static/js/main.10835ea7.chunk.js"
+  ]
+}
