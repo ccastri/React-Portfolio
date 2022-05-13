@@ -1,0 +1,9 @@
+$mainColor: goldenrod;
+
+$width : 979px;
+
+@mixin mobile{
+    @media (max-width: #{$width}){
+        @content
+    }
+}
